@@ -63,8 +63,8 @@ JobSchema.statics = {
     //   return this.find(query)
     //     .skip(Number(start))
     //     .limit(Number(limit))
-    //     .then((todos) => {
-    //       return todos
+    //     .then((jobs) => {
+    //       return jobs
     //     })
     //     .catch((e) => {
     //       return Promise.reject({
